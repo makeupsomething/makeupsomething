@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makeupsomething&theme=monokai-metallian&hide_border=true" width="600px" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=makeupsomething&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=makeupsomething&layout=compact)
